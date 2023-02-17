@@ -1,7 +1,6 @@
 # MWA: 
 
 ---
-[![Build Status](https://dev.azure.com/codegator/MWA/_apis/build/status/CodeGator.MWA?branchName=main)](https://dev.azure.com/codegator/MWA/_build/latest?definitionId=94&branchName=main)
 
 #### What does it do?
 It wiggles the mouse every now and then.
